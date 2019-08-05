@@ -1,0 +1,4 @@
+*~
+*.o
+tmp*
+self_gcc
